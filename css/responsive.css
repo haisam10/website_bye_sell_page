@@ -1,0 +1,98 @@
+@media screen and (max-width: 900px){
+
+    .main{
+        width: 90%!important;
+        margin: 0 auto!important;
+    }
+    .cs-phone_nav{   
+      }
+    .cs-nav ul li, .cs-header-icon-image p,.cs-hero-area-image_side,.cs-header-icon-image{
+        display: none!important;
+    }
+    .cs-nav ul span{
+        display: block!important;
+    }
+    .cs-header {
+        position: absolute!important;
+    }
+    .cs-hero-area,.cs-service,.cs-work-area-div,.cs-service-div1 p,.cs-header {
+        padding: 0px!important;
+    }
+    .cs-tec-dev02-img,.cs-devlop-dev01 {
+        margin: 0px!important;
+    }
+    .sec-padding {
+        padding: 20px 0px!important;
+    }
+    .cs-hero-area-h3,.counter,.cs-work h3  {
+        font-size: 25px!important;
+    }
+    .cs-header-icon-image-phone{
+        display: flex!important;
+        justify-content: space-between!important;
+
+    }
+    .cs-header-icon-image-phone img{
+        width: 60px;
+        height: 60px;
+        margin: 0px 0px 0px 0px;
+    }
+    .cs-hero-area {
+        text-align: center;
+    }
+    .cs-work-area-div,.cs-service {
+        flex-wrap: wrap!important;
+    }
+    .slider {
+        position: static!important;
+        width: 100%!important;
+    }
+    .cs-work-div {
+        margin: 10px!important;
+    }
+    .cs-service-div2 {
+        padding: 35px 10px!important;
+        margin: 10px!important;
+        width: 90%!important;
+    }
+    .cs-tec-dev01 {
+        display: flex!important;
+        text-align: center!important;
+        flex-wrap: wrap!important;
+        padding: 21px 2px 21px 2px!important;
+        background-color: var(--color02)!important;
+        margin: 0px!important;
+        border-radius: 15px!important;
+    }
+    .cs-tec-dev01 img {
+        margin: 0 auto;
+    }
+    .d-flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .cs-tec-dev02-img div {
+        margin: 10px 0px!important;
+    }
+    .cs-tec-dev02-img {
+        padding: 10px!important;
+    }
+    .cs-tec{
+        display: flex;
+        justify-content: center;
+    }
+    .cs-devlop-dev01 div img {
+        width: 100%!important;
+        height: 100%!important;
+    }
+    .cs-devlop {
+        width: 100%!important;
+    }
+    .cs-clnt-image img{
+        width: 100%!important;
+    }
+    .cs-idea-image {
+        background-size: 100% 100%!important;
+    }
+}

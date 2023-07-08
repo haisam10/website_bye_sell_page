@@ -1,0 +1,22 @@
+.col-3{
+    width: 50%!important;
+}
+.cs-con div div img{
+    width: 550px;
+}
+.cs-con_1{
+    width: 650px;
+}
+@media screen and (max-width: 900px){
+    .col-3{
+        width: 100%!important;
+        padding: 5px 0px;
+    }
+    .cs-con div div img{
+        display: none;
+    }
+    .cs-con_1{
+        width: 100%;
+        margin-top: 100px;
+    }
+}
